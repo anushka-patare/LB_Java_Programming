@@ -52,7 +52,7 @@ class program108
         ArrayX aobj1 = new ArrayX(5);
         aobj1.Accept();
         aobj1.Display();
-
+        
         fRet = aobj1.Average();
 
         System.out.println("Average is :"+fRet);

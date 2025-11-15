@@ -31,6 +31,7 @@ class ArrayX
             System.out.println(Arr[i]);
         }
     }
+    
 }  //End of ArrayX class
 
 class program107
@@ -44,7 +45,7 @@ class program107
         ArrayX aobj2 = new ArrayX(7);
         aobj2.Accept();
         aobj2.Display();
-        
+
         
         
 

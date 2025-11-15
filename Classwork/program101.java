@@ -51,7 +51,6 @@ class program101
         iRet =  aobj.CountEven(Arr);
         System.out.println("Even elements are : "+iRet);
        
-       
         //Important
 
         aobj = null;
